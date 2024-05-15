@@ -1,4 +1,4 @@
-# 💫 About Me:
+Acerca de mi 
 Acerca de mi <br><br>perfil de GITHUB - José Bermúdez <br><br>!HOLA¡ soy JOSE BERMUDEZ,  aprendiz del  técnico en programación de software  <br>ficha 2875079<br><br>Mi objetivo es aprender y compartir mis conocimientos y experiencia para ayudar a otros a aprender y <br>crecer en el mundo de la programación. 
 
 
